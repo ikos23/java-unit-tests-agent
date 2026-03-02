@@ -1,5 +1,7 @@
 # Java Unit Tests Agent
 
+> **This is an educational project** — built to demonstrate multi-agent system by using LangGraph. It is not production-ready software.
+
 A multi-agent CLI tool that automatically generates JUnit 5 + Mockito tests for Java/Spring Boot/Gradle projects using LangGraph and OpenAI GPT-4o.
 
 ## How It Works
